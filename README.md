@@ -17,7 +17,7 @@ login - ✅ [you can login with any pass and user]
 
 Web GUI - ✅
 
-Ranking  - 🟥
+Ranking  - 🟥 [not even planned]
 
 More - 🟥
 
