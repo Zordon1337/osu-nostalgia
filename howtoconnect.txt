@@ -1,0 +1,17 @@
+1. go to C:/windows/system32/drivers/etc/
+2. open file "hosts" with any file editor
+3. paste following text at end of file
+SERVER_IP osu.ppy.sh
+SERVER_IP c.ppy.sh
+SERVER_IP c1.ppy.sh
+SERVER_IP c2.ppy.sh
+SERVER_IP c3.ppy.sh
+SERVER_IP c4.ppy.sh
+SERVER_IP c5.ppy.sh
+SERVER_IP c6.ppy.sh
+SERVER_IP ce.ppy.sh
+SERVER_IP a.ppy.sh
+SERVER_IP i.ppy.sh
+4. save file
+5. register on site and login in osu client and BOOM done!
+HAVE FUN!
