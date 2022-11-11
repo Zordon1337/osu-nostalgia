@@ -10,9 +10,14 @@ STATUS TYPES
 🟨 - Half done
 🟥 - not done
 ```
+
+
 login - 🟨 [you can login with any pass and user]
+
 Web GUI - 🟥
+
 Ranking  - 🟥
+
 More - 🟥
 
 # note for peppy
