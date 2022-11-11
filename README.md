@@ -12,9 +12,9 @@ STATUS TYPES
 ```
 
 
-login - 🟨 [you can login with any pass and user]
+login - ✅ [you can login with any pass and user]
 
-Web GUI - 🟥
+Web GUI - ✅
 
 Ranking  - 🟥
 
